@@ -1,2 +1,2 @@
 # c-sch-proj
-bunch of completed programs
+sch programs for school
